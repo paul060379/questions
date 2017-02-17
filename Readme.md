@@ -4,9 +4,10 @@
 ----
 ## 步驟教學
 
-1. 建立issue
-2. 若有解法則回覆comment
-3. 關閉issue
+1. 自行fork此專案
+2. 建立issue
+3. 若有解法則回覆comment
+4. 關閉issue
 
 ----
 ## 問題範例
