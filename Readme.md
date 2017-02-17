@@ -4,7 +4,7 @@
 ----
 ## 步驟教學
 
-1. 建立issue [go](questions/issues?utf8=✓&q=)
+1. 建立issue [go](/questions/issues?utf8=✓&q=)
 2. 若有解法則回覆comment
 3. 關閉issue
 
